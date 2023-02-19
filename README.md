@@ -16,6 +16,13 @@ Use the following command to install the required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
+Or
+```bash
+pip install fastapi uvicorn
+pip install streamlit
+pip install pandas numpy scikit-learn
+```
+
 ## Usage
 * Open a terminal and navigate to the directory where you cloned the repository.
 
