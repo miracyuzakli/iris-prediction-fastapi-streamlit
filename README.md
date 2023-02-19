@@ -1,8 +1,5 @@
-# iris-prediction-fastapi-streamlit
-V 1.0
+# iris-prediction-fastapi-streamlit (Building a Linear Regression Model on the Iris Dataset and Creating a Web Application)
 
-
-# Building a Linear Regression Model on the Iris Dataset and Creating a Web Application
 This project builds a linear regression model on the Iris dataset and creates a web application that can make flower type predictions using the model.
 
 Requirements
