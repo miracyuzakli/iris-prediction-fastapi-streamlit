@@ -19,17 +19,17 @@ Use the following command to install the required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
-Usage
-Open a terminal and navigate to the directory where you cloned the repository.
+## Usage
+* Open a terminal and navigate to the directory where you cloned the repository.
 
-Use the following command to start the FastAPI application:
-
+* Use the following command to start the FastAPI application:
+```bash
 uvicorn main:app --reload
-
-Use the following command to start the Streamlit application:
-
+```
+* Use the following command to start the Streamlit application:
+```bash
 streamlit run app.py
+```
+* Open http://localhost:8501 in your web browser to access the web application.
 
-Open http://localhost:8501 in your web browser to access the web application.
-
-Use the form on the page to make a flower type prediction based on the feature values you select.
+* Use the form on the page to make a flower type prediction based on the feature values you select.
