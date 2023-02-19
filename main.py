@@ -37,7 +37,6 @@ import streamlit as st
 # API endpoint
 url = "http://localhost:8000/predict"
 
-# kullanıcı arayüzü
 st.title("Iris Çiçeği Türü Tahmini")
 
 sepal_length = st.number_input("Sepal Length")
